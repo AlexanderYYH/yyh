@@ -1,0 +1,506 @@
+{
+  "data": [
+    {
+      "firstCateName": "品牌",
+      "firstCateId": "001",
+      "secondCateItems": [
+        {
+          "secondCateName": "品牌",
+          "secondCateId": "",
+          "items": [
+            {
+              "itemImg": "http://dealer2.autoimg.cn/dealerdfs/g14/M00/72/20/620x0_1_q87_autohomedealer__wKgH5Ff92Y-AJRM6AAAsx6Kq0Is232.jpg",
+              "title": "AlR"
+            },
+            {
+              "itemImg": "http://www.ht.cn/data/upload/image/20170824/1503555455653877.png",
+              "title": "NIKE"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575031140062&di=0cac10732c3eea13121fdb28365c1cad&imgtype=0&src=http%3A%2F%2Fimg1.cache.netease.com%2Flady%2F2012%2F11%2F1%2F20121101171259b4a2f.jpg",
+              "title": "adidas"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575031341707&di=f765b0daea774494d5f276f90e450af2&imgtype=0&src=http%3A%2F%2Fimg1.efu.com.cn%2Fupfile%2Fbrand%2F2013-08%2Fac4ea9b4-cb9f-41a2-9ebf-85bc28db1da9.jpg",
+              "title": "adidas"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575121964617&di=1eaea13e2dc4435bdf5fdfed423b1c1b&imgtype=jpg&src=http%3A%2F%2Ftm-image.qichacha.com%2F886085e85acd800559a2c02cbdd0c448.jpg",
+              "title": "CONVERSE"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575626620&di=5447b9212949977a55f962782bfa6e6a&imgtype=jpg&er=1&src=http%3A%2F%2Fimg.qqzhi.com%2Fuploads%2F2018-12-30%2F203953256.jpg",
+              "title": "Supreme"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575121881000&di=ce7f5fb1e538bedfa6d69c0ccf14f105&imgtype=0&src=http%3A%2F%2Fwww.idmall.com.cn%2FPublic%2FUploads%2F2017-09-13%2F59b901154d085.jpg",
+              "title": "Vans"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575032273521&di=9d699e3cccb82a85849e354ab5e8dfbd&imgtype=0&src=http%3A%2F%2Fossimg.wandougongzhu.cn%2F543fc3b43d058cdd5c5e5bf9790d0e16.jpg%40300w_300h_1l_1wh_1pr.jpg",
+              "title": "Champion"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575032377103&di=01dd011a43ee33a81774d32dc0e32569&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fblog%2F201506%2F18%2F20150618092643_riQBf.thumb.224_0.jpeg",
+              "title": "PUMA"
+            },
+            {
+              "itemImg": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1621581965,1538613194&fm=26&gp=0.jpg",
+              "title": "LI-NING"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575033417356&di=35720cfc87ec809605e8d51beefa7f00&imgtype=0&src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fq_70%2Cc_zoom%2Cw_640%2Fimages%2F20180508%2Fa0253ff9178049278872367955576869.jpeg",
+              "title": "PLAY"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575032790793&di=da6198f63cbe7f1abb0e759017310f83&imgtype=0&src=http%3A%2F%2Fimg.china-ef.com%2Fluxury%2F201408%2F22%2F2014082201344720.png",
+              "title": "WTAPS"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575032912678&di=92ec4f90ffc317b212ec354ddeee42b2&imgtype=0&src=http%3A%2F%2Fimg1.efu.com.cn%2Fupfile%2Fbrand%2F2015-10%2F6864c901-cb56-422a-9749-bd1c014fb707.png",
+              "title": "THENORTHFACE"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575033178752&di=bda892e86edd51a9e43642dbc4858ee8&imgtype=0&src=http%3A%2F%2Flogok.org%2Fwp-content%2Fuploads%2F2014%2F08%2FBape-logo-1024x768.png",
+              "title": "Aape"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575033353441&di=c714d0e6d5435cc9cdf56419fbc35061&imgtype=0&src=http%3A%2F%2Fofjn5tuqf.qnssl.com%2F51df9656d556e4fae4d134591f40b89a.jpg",
+              "title": "UNDER ARMOUR"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575033540446&di=192b2bd86189c866d35ac87de808ecb5&imgtype=0&src=http%3A%2F%2Fbrp1.yokacdn.com%2Fbrand_upload%2F20160601%2F0%2F14647477816650.jpg",
+              "title": "OFF WHITE"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575033745537&di=00a457c0108a3cd178dc646d8ba9a98e&imgtype=0&src=http%3A%2F%2Fpic.jushewang.com%2Fb2c_web%2Fimages%2Fbrand%2F890%2F890.jpg",
+              "title": "RIMOWA"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575033863842&di=6408e44f209a20e96e3f32fd69b7aa05&imgtype=0&src=http%3A%2F%2Fimg.yzcdn.cn%2Fupload_files%2F2015%2F05%2F25%2FFl_ZWs2uNq6fkmyHLahG3oP-j1jf.jpg",
+              "title": "new balance"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575033957703&di=27350d5654d503cef06a3350a67bd3be&imgtype=0&src=http%3A%2F%2Fs9.rr.itc.cn%2Fr%2FwapChange%2F20164_11_15%2Fa65m8o8140895149352.jpg",
+              "title": "KITH"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575036222744&di=534010a0ba6010a4550c4addd982305f&imgtype=0&src=http%3A%2F%2Fphotocdn.sohu.com%2F20110825%2FImg317339796.jpg",
+              "title": "NEIGHBORHOOD"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575034014486&di=5a61b50d883ee0abdca05d5c17add6af&imgtype=0&src=http%3A%2F%2Fn1.itc.cn%2Fimg8%2Fwb%2Frecom%2F2016%2F07%2F23%2F146927745987107679.JPEG",
+              "title": "AntiSocialClub"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575034227958&di=db6bdd84531341484c34a536acde4b03&imgtype=0&src=http%3A%2F%2Fwx1.sinaimg.cn%2Flarge%2Fed718250ly1ft5o3tfktwj20rf0rftc1.jpg",
+              "title": "have a GOOD time"
+            },
+            {
+              "itemImg": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2175802852,2693208317&fm=26&gp=0.jpg",
+              "title": "FILA"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575034875990&di=3078d16ab4e2b7266666b1f510590679&imgtype=0&src=http%3A%2F%2Fwww.meiletao.com%2Fzb_users%2Fupload%2F2019%2F04%2F201904161555395076282379.jpg",
+              "title": "HUMAN MADE"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575035108454&di=974354dafc12170e771953af4bbd9e3a&imgtype=0&src=http%3A%2F%2Fimg.mp.itc.cn%2Fupload%2F20161108%2F3cee17868a7f4c73bb23f120b440f828_th.jpeg",
+              "title": "descendant"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575629914&di=6d92d36a86c13f092477bba0e367c6e1&imgtype=jpg&er=1&src=http%3A%2F%2Fwww.bangweb.com.tw%2Fdata%2Feditor%2Fimages%2FFEATURE%2F201612%2F1481531566142698454.jpg",
+              "title": "THRASHER"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575035369637&di=8d0a69bb1d2878b45c3f5b0732e81bb5&imgtype=0&src=http%3A%2F%2Fphotocdn.sohu.com%2F20110609%2FImg309783339.jpg",
+              "title": "BE@RBRICK"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575035453269&di=a4e62aff48083651b53940fc5f98fa63&imgtype=0&src=http%3A%2F%2Fimg.mp.itc.cn%2Fupload%2F20161211%2F2912e29c00934c95af745ece5086b6fc_th.jpeg",
+              "title": "KAIKAI KIKI"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575035809422&di=63581d4ea8cf833e1f0f3834a4f22a96&imgtype=0&src=http%3A%2F%2Fimg1.doubanio.com%2Fview%2Fgroup_topic%2Fl%2Fpublic%2Fp49080818.jpg",
+              "title": "ENSHADOWER"
+            },
+            {
+              "itemImg": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2744524187,2659171206&fm=26&gp=0.jpg",
+              "title": "asics"
+            },
+            {
+              "itemImg": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=955598183,1239870733&fm=26&gp=0.jpg",
+              "title": "MADNESS"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575631112&di=ae21820497ed4289985b0b7f26d94430&imgtype=jpg&er=1&src=http%3A%2F%2Fimgboys1.yohobuy.com%2Fcmsimg01%2F2018%2F04%2F10%2F21%2F29%2F01605203bb6e8fb95ff2dbddf84aa810f1.jpg%3FimageView2%2F2%2Fw%2F734",
+              "title": "NOAH"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575036438850&di=1aa29509a66e0f551f224ca3c265a68f&imgtype=0&src=http%3A%2F%2Fwww.xilaiping.com%2Fpic%2Fbrand%2F0006%2F2284.jpg",
+              "title": "visvim"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575036515655&di=cc328cba7867cddcbd2f598f69298374&imgtype=jpg&src=http%3A%2F%2Fimg0.imgtn.bdimg.com%2Fit%2Fu%3D3793678060%2C329080145%26fm%3D214%26gp%3D0.jpg",
+              "title": "VLONE"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575036717783&di=1fb0dcbf407a442a1486b349bc62baa8&imgtype=0&src=http%3A%2F%2Fe0.ifengimg.com%2F11%2F2018%2F1212%2F8EA7902CB5BC765394DDCA5A5AC0B9CD2A90314A_size16_w888_h652.jpeg\n",
+              "title": "AMBUSH"
+            },
+            {
+              "itemImg": "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=628883984,3170576655&fm=26&gp=0.jpg",
+              "title": "PALACE"
+            },
+            {
+              "itemImg": "http://awb.img.xmtbang.com/img/uploadnew/201508/26/5a6900690e2e47438b42dc5fe8d5b551.jpg",
+              "title": "ROARINGWILD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "firstCateName": "系列",
+      "firstCateId": "002",
+      "secondCateItems": [
+        {
+          "secondCateName": "热门系列",
+          "secondCateId": "",
+          "items": [
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575038242124&di=2cabaaedb37d7b50330d810a75a2f051&imgtype=0&src=http%3A%2F%2Fwww.5jjc.net%2Ftu5jJDEwLmFsaWNkbi5jb20vaTEvMzQzMjc4MjgwNS9UQjIzWWZBYjVxQVh1Tmp5MVhkWFhhWWNWWGFfISEzNDMyNzgyODA1JDk.jpg",
+              "title": "SUPREME配饰"
+            },
+            {
+              "itemImg": "https://gd4.alicdn.com/imgextra/i4/876611980/O1CN017JqfpF1QUslpV8EoE_!!876611980.jpg_400x400.jpg",
+              "title": "YEEZY椰子"
+            },
+            {
+              "itemImg": "https://gd3.alicdn.com/imgextra/i3/703011465/O1CN01jL17wY1Mh0nq0zCfs_!!703011465.jpg_400x400.jpg",
+              "title": "OW x NIKE"
+            },
+            {
+              "itemImg": "https://gd1.alicdn.com/imgextra/i1/122178027/O1CN01ImhuCP29APn7A9e8m_!!122178027.jpg_400x400.jpg",
+              "title": "AIR FORCE 1"
+            },
+            {
+              "itemImg": "https://img.alicdn.com/imgextra/i2/2200805760379/O1CN01VLVTPf1EfcgHQS36O_!!0-item_pic.jpg_430x430q90.jpg",
+              "title": "OFF-WHITE"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575042328452&di=bf8af6702dc0472d420e571b9b99599a&imgtype=0&src=http%3A%2F%2Fpic8.58cdn.com.cn%2Fzhuanzh%2Fn_x1034864640686841856.jpg%3Fw%3D750%26h%3D0",
+              "title": "AIR JORDAN 1"
+            },
+            {
+              "itemImg": "https://img.alicdn.com/imgextra/i2/1113314630/O1CN01flEWI51k4aLYG4FiP_!!1113314630.jpg_430x430q90.jpg",
+              "title": "1970S"
+            },
+            {
+              "itemImg": "https://gd3.alicdn.com/imgextra/i3/1935918269/O1CN012AxFXNIg9opHSRf_!!1935918269.jpg_400x400.jpg",
+              "title": "AIR JORDAN 11"
+            },
+            {
+              "itemImg": "https://gd2.alicdn.com/imgextra/i2/1935918269/TB2mh8XEhWYBuNjy1zkXXXGGpXa_!!1935918269.jpg_400x400.jpg",
+              "title": "AIR JORDAN 13"
+            },
+            {
+              "itemImg": "https://img.alicdn.com/imgextra/i1/890482188/O1CN01MLRti01S299M7NeLI_!!890482188.jpg_430x430q90.jpg",
+              "title": "NIKE拖鞋"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575039952487&di=6be9865f3694f1f005e2079f28cf943d&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fblog%2F201307%2F21%2F20130721115732_3An2U.jpeg",
+              "title": "FOAMPOSITE"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575040122513&di=10f879f3a512c72d949fdbafce263a43&imgtype=0&src=http%3A%2F%2Fm.360buyimg.com%2Fn12%2Fjfs%2Ft559%2F133%2F604879231%2F158777%2F8deaf609%2F5476f72fNa63c5966.jpg%2521q70.jpg",
+              "title": "LEBRON 詹姆斯"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575040256254&di=c894bdb420e520d29dee414484db226c&imgtype=0&src=http%3A%2F%2Fimg10.360buyimg.com%2FpopWaterMark%2Fjfs%2Ft1090%2F22%2F921189470%2F30388%2F3a277ebf%2F5559789cNc2ab5579.jpg",
+              "title": "KOBE 科比"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575040357278&di=b2f75a9f7312b9a333d8be0a2600e2e1&imgtype=0&src=http%3A%2F%2Fimg.alicdn.com%2Ftfscom%2Fi1%2F67837193%2FTB2vqY5gC8YBeNkSnb4XXaevFXa_%2521%252167837193.jpg",
+              "title": "KYRIE 欧文"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575040477556&di=a531da913c58c845004d073e141b6861&imgtype=0&src=http%3A%2F%2Fshihuo.hupucdn.com%2Fucditor%2F20180626%2F365x365_e8c819a921b5f99d792d43de19412eff.jpeg",
+              "title": "KD 杜兰特"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575040526027&di=29551898093a16fa4118673274f67f56&imgtype=0&src=http%3A%2F%2Fwww.tbw-xie.com%2FtuxieJDEwLmFsaWNkbi5jb20vaTMvMzUyMjMxMTIwL08xQ04wMVJVaU9rRjFLOTA1UXVDU0x5XyEhMzUyMjMxMTIwJDk.jpg",
+              "title": "PG 乔治"
+            }
+          ]
+        },
+        {
+          "secondCateName": "JORDAN",
+          "secondCateId": "",
+          "items": [
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575042328452&di=bf8af6702dc0472d420e571b9b99599a&imgtype=0&src=http%3A%2F%2Fpic8.58cdn.com.cn%2Fzhuanzh%2Fn_x1034864640686841856.jpg%3Fw%3D750%26h%3D0",
+              "title": "AIR JORDAN 1"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575041032462&di=6c223b294e6acca69b8eedc568616f86&imgtype=0&src=http%3A%2F%2Fimg14.360buyimg.com%2FpopWaterMark%2Fjfs%2Ft208%2F282%2F1225885614%2F256372%2F95d50481%2F53a7c2b2N20dc2b2f.jpg",
+              "title": "AIR JORDAN 2"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575041082030&di=b505517c6252fa2b8bebd95c3c8a4085&imgtype=0&src=http%3A%2F%2Fimage4.suning.cn%2Fb2c%2Fcatentries%2F000000000105407240_1_400x400.jpg",
+              "title": "AIR JORDAN 3"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575041335968&di=874c93b58b29d38f607fe697c60a5d4b&imgtype=0&src=http%3A%2F%2Fwww.szthks.com%2Flocalimg%2F687474703a2f2f6777312e616c6963646e2e636f6d2f62616f2f75706c6f616465642f69312f5431566c7877466d306258585858585858585f2121302d6974656d5f7069632e6a7067.jpg",
+              "title": "AIR JORDAN 4"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575041451614&di=3b4ef66d70a500ab9d25702d56ce822e&imgtype=0&src=http%3A%2F%2Fm.360buyimg.com%2Fn12%2Fjfs%2Ft2713%2F196%2F3050092499%2F171862%2Fdfa7d33c%2F577e2161Ndba03a5e.jpg%2521q70.jpg",
+              "title": "AIR JORDAN 5"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575041508026&di=4358cf8a2c6c431c123e275f976a9fdb&imgtype=0&src=http%3A%2F%2Fimg10.360buyimg.com%2FpopWaterMark%2Fjfs%2Ft1117%2F106%2F191386195%2F85663%2Fc9fb62d3%2F5507f421Ncbf0ab42.jpg",
+              "title": "AIR JORDAN 6"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575636268&di=8a01b44bbfaf1b0237637765ddbdcac2&imgtype=jpg&er=1&src=http%3A%2F%2F0.image.kw.okbuycdn.com%2Fnbn%2Fs270_270%2Fstatic%2Fa6ef851d5f4c49bbe2e1b116f4e1cce3.jpg",
+              "title": "AIR JORDAN 7"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575042429561&di=e2cc9c8af8278eb188350afcd597d848&imgtype=0&src=http%3A%2F%2Fwww.tbw-xie.com%2FtuxieJDEwLmFsaWNkbi5jb20vaTQvMTc4MDE3NjM0L08xQ04wMUdZU3UwcTI2R1EzMXpEcVVYXyEhMTc4MDE3NjM0JDk.jpg",
+              "title": "AIR JORDAN 8"
+            },
+            {
+              "itemImg": "https://img.alicdn.com/imgextra/i3/2914266524/O1CN01idqv3H1y42Uqfd3ry_!!2914266524.jpg_430x430q90.jpg",
+              "title": "AIR JORDAN 9"
+            },
+            {
+              "itemImg": "https://img.alicdn.com/imgextra/i2/2914266524/O1CN01cJ86nf1y42QyzFdu3_!!2914266524.jpg_430x430q90.jpg",
+              "title": "AIR JORDAN 10"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575041914338&di=8cfe78c9c38e956b2d4734bcf225459b&imgtype=0&src=http%3A%2F%2Fwww.tbw-xie.com%2FtuxieJDEwLmFsaWNkbi5jb20vaTIvMjIwNjY1Nzg1L08xQ04wMXVRNVJodzFzYlppQ3NFcnk4XyEhMjIwNjY1Nzg1JDk.jpg",
+              "title": "AIR JORDAN 11"
+            },
+            {
+              "itemImg": "https://img.alicdn.com/imgextra/i3/2260887445/O1CN01url29F24rrEm1Qdg0_!!2260887445.jpg_430x430q90.jpg",
+              "title": "AIR JORDAN 12"
+            },
+            {
+              "itemImg": "https://img.alicdn.com/imgextra/i3/2914266524/O1CN01LGsgTT1y42UrK8zNh_!!0-item_pic.jpg_430x430q90.jpg",
+              "title": "AIR JORDAN 13"
+            },
+            {
+              "itemImg": "https://gd3.alicdn.com/imgextra/i3/122178027/TB2MeIuocuYBuNkSmRyXXcA3pXa_!!122178027.jpg_400x400.jpg",
+              "title": "AIR JORDAN 14"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575042291342&di=463c205226c63d07e52624173ad09d9e&imgtype=0&src=http%3A%2F%2Fimg11.360buyimg.com%2Fn2%2Fs155x155_jfs%2Ft19738%2F4%2F1397715559%2F66376%2F5e00216e%2F5ac83710N9a7a4111.jpg",
+              "title": "AIR JORDAN 18"
+            }
+          ]
+        },
+        {
+          "secondCateName": "NIKE",
+          "secondCateId": "",
+          "items": [
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575119016250&di=494e3ea7d9b6606bc48d7211ea794bc3&imgtype=0&src=http%3A%2F%2Fm.360buyimg.com%2Fn12%2Fjfs%2Ft2959%2F231%2F1316002561%2F133912%2F9eeb2b3c%2F577dd9edN84d4bce0.jpg%2521q70.jpg",
+              "title": "Lebron 詹姆斯"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575040256254&di=c894bdb420e520d29dee414484db226c&imgtype=0&src=http%3A%2F%2Fimg10.360buyimg.com%2FpopWaterMark%2Fjfs%2Ft1090%2F22%2F921189470%2F30388%2F3a277ebf%2F5559789cNc2ab5579.jpg",
+              "title": "KOBE 科比"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575040477556&di=a531da913c58c845004d073e141b6861&imgtype=0&src=http%3A%2F%2Fshihuo.hupucdn.com%2Fucditor%2F20180626%2F365x365_e8c819a921b5f99d792d43de19412eff.jpeg",
+              "title": "KD 杜兰特"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575040357278&di=b2f75a9f7312b9a333d8be0a2600e2e1&imgtype=0&src=http%3A%2F%2Fimg.alicdn.com%2Ftfscom%2Fi1%2F67837193%2FTB2vqY5gC8YBeNkSnb4XXaevFXa_%2521%252167837193.jpg",
+              "title": "KYRIE 欧文"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575119378348&di=982e06c34f795939d410d40736529880&imgtype=0&src=http%3A%2F%2Fshihuo.hupucdn.com%2Fdef%2F20170911%2F1298078a57a233bbff5cc22aa6fd01bc1505139424.jpg%3FimageMogr2%2Fformat%2Fjpg",
+              "title": "FOAMPOSITE"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575040526027&di=29551898093a16fa4118673274f67f56&imgtype=0&src=http%3A%2F%2Fwww.tbw-xie.com%2FtuxieJDEwLmFsaWNkbi5jb20vaTMvMzUyMjMxMTIwL08xQ04wMVJVaU9rRjFLOTA1UXVDU0x5XyEhMzUyMjMxMTIwJDk.jpg",
+              "title": "PG 乔治"
+            },
+            {
+              "itemImg": "https://gd1.alicdn.com/imgextra/i1/122178027/O1CN01ImhuCP29APn7A9e8m_!!122178027.jpg_400x400.jpg",
+              "title": "AIR FORCE 1"
+            },
+            {
+              "itemImg": "https://img.alicdn.com/imgextra/i2/2914266524/TB2YKm4oVooBKNjSZFPXXXa2XXa_!!2914266524.jpg_430x430q90.jpg",
+              "title": "REACT 87"
+            },
+            {
+              "itemImg": "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1326344352,313472002&fm=26&gp=0.jpg",
+              "title": "VAPORMAX "
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575119690756&di=563dd9abce077221c1945d3325d3f36a&imgtype=jpg&src=http%3A%2F%2Fimg14.360buyimg.com%2Fn7%2Fjfs%2Ft18583%2F51%2F2515740091%2F205409%2Fa82627f%2F5af9747cn336b215a.jpg",
+              "title": "AIR MAX 97"
+            },
+            {
+              "itemImg": "https://img.alicdn.com/imgextra/i4/2999119381/O1CN01vnS0LZ2JAY1QvhD1y_!!2999119381.jpg_430x430q90.jpg",
+              "title": "AIR MAX 95"
+            },
+            {
+              "itemImg": "https://img.alicdn.com/imgextra/i3/890482188/O1CN012utTV01S2999wsslv_!!890482188.jpg_430x430q90.jpg",
+              "title": "AIR MAX 90"
+            }
+          ]
+        },
+        {
+          "secondCateName": "ADIDAS",
+          "secondCateId": "",
+          "items": [
+            {
+              "itemImg": "https://gd4.alicdn.com/imgextra/i4/876611980/O1CN017JqfpF1QUslpV8EoE_!!876611980.jpg_400x400.jpg",
+              "title": "YEEZY 椰子"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575120136330&di=433c97b0b5b2e546d771c5a034f4d2e9&imgtype=0&src=http%3A%2F%2Fimg12.360buyimg.com%2Fn1%2Fjfs%2Ft2623%2F319%2F2277439003%2F115647%2Fb16d8a25%2F575fc0deN44d1ec51.jpg",
+              "title": "NMD"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575714934&di=20c6b98a6839c413d943aeea0fe66351&imgtype=jpg&er=1&src=http%3A%2F%2Fwww.t-jiaju.com%2FtujjJDEwLmFsaWNkbi5jb20vaTIvNTkxNTA1ODcvVEIycGdHNmFLVVhCdU5qdF9YQlhYWGVEWFhhXyEhNTkxNTA1ODckOQ.jpg",
+              "title": "ULTRA BOOST"
+            },
+            {
+              "itemImg": "https://gd1.alicdn.com/imgextra/i1/355159670/O1CN01x9I9xb2LIuTMxuWZd_!!355159670.jpg_400x400.jpg",
+              "title": "SUPERSTAR"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575715144&di=7859e6014d2806ef877e554264a11470&imgtype=jpg&er=1&src=http%3A%2F%2Fimage3.suning.cn%2Fb2c%2Fcatentries%2F000000000151986639_1_200x200.jpg",
+              "title": "STAN SMITH"
+            }
+          ]
+        },
+        {
+          "secondCateName": "CONVERSE",
+          "secondCateId": "",
+          "items": [
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575120581902&di=b4a364e17aa2e7f578413c1e75c98bcf&imgtype=0&src=http%3A%2F%2Fm.360buyimg.com%2Fn12%2Fg4%2FM01%2F04%2F13%2FrBEGFk-qQ_cIAAAAAAD3PyXC1CIAAA5yACVdlkAAPdX980.jpg%2521q70.jpg",
+              "title": "ONE STAR"
+            },
+            {
+              "itemImg": "https://img.alicdn.com/imgextra/i2/1113314630/O1CN01flEWI51k4aLYG4FiP_!!1113314630.jpg_430x430q90.jpg",
+              "title": "1970S"
+            }
+          ]
+        },
+        {
+          "secondCateName": "VANS",
+          "secondCateId": "",
+          "items": [
+            {
+              "itemImg": "https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1341941896,1560969099&fm=15&gp=0.jpg",
+              "title": "OLD SKOOL"
+            },
+            {
+              "itemImg": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=53755918,24843401&fm=26&gp=0.jpg",
+              "title": "SK8 HI"
+            },
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575120826579&di=bca4e34c19340239571c1e17f9044754&imgtype=0&src=http%3A%2F%2Fbrup.shengri.cn%2Fgoods%2F2017%2F04%2FFlYNokqMqJrwRO26lJEjoY3JUBtl.jpg",
+              "title": "STYLE 36"
+            },
+            {
+              "itemImg": "https://gd2.alicdn.com/imgextra/i2/837341357/O1CN01ixm1681LtY0vVCeLV_!!837341357.jpg_400x400.jpg",
+              "title": "NEW ERA"
+            },
+            {
+              "itemImg": "https://gd3.alicdn.com/imgextra/i3/466007210/O1CN01xmRst3238EAzXcYde_!!466007210.jpg_400x400.jpg",
+              "title": "slip-on"
+            }
+          ]
+        },
+        {
+          "secondCateName": "PUMA",
+          "secondCateId": "",
+          "items": [
+            {
+              "itemImg": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1575121266012&di=a8e7258f1b62d7010a13e999a5f5e70e&imgtype=jpg&src=http%3A%2F%2Fimg3.imgtn.bdimg.com%2Fit%2Fu%3D1840679333%2C4237207447%26fm%3D214%26gp%3D0.jpg",
+              "title": "RIHANNA 蕾哈娜"
+            },
+            {
+              "itemImg": "https://img.alicdn.com/imgextra/i4/2260887445/TB2O2wmbY1YBuNjSszeXXablFXa_!!2260887445.jpg_430x430q90.jpg",
+              "title": "SUEDE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "firstCateName": "新品",
+      "firstCateId": "003",
+      "secondCateItems": [
+        {
+          "secondCateName": "潮牌新品",
+          "secondCateId": "",
+          "items": []
+        }
+      ]
+    },
+    {
+      "firstCateName": "篮球鞋",
+      "firstCateId": "004",
+      "secondCateItems": [
+        {
+          "secondCateName": "球星同款",
+          "secondCateId": "",
+          "items": []
+        }
+      ]
+    },
+    {
+      "firstCateName": "品类",
+      "firstCateId": "005",
+      "secondCateItems": [
+        {
+          "secondCateName": "上衣",
+          "secondCateId": "",
+          "items": []
+        }
+      ]
+    },
+    {
+      "firstCateName": "女生",
+      "firstCateId": "006",
+      "secondCateItems": [
+        {
+          "secondCateName": "女鞋",
+          "secondCateId": "",
+          "items": []
+        }
+      ]
+    },
+    {
+      "firstCateName": "跑鞋",
+      "firstCateId": "007",
+      "secondCateItems": [
+        {
+          "secondCateName": "潮流跑鞋",
+          "secondCateId": "",
+          "items": []
+        }
+      ]
+    },
+    {
+      "firstCateName": "休闲鞋",
+      "firstCateId": "008",
+      "secondCateItems": [
+        {
+          "secondCateName": "经典百搭",
+          "secondCateId": "",
+          "items": []
+        }
+      ]
+    }
+  ]
+}
